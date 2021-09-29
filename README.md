@@ -1,5 +1,7 @@
+![1](https://user-images.githubusercontent.com/37182022/135298642-181a3c85-3100-4dbc-b62e-858281bd324e.jpg)
 <h1 align="center">Привет 👋, меня зовут Вера</h1>
 <h3 align="center">Начинающий разработчик Swift</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
