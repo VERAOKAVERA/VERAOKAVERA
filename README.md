@@ -1,7 +1,7 @@
 <img width="1054" alt="Снимок экрана 2021-09-29 в 18 19 04" src="https://user-images.githubusercontent.com/37182022/135298811-39229ff3-4b50-46e7-97a7-c0ad78643120.png">
 
 <h1 align="center">Привет 👋, меня зовут Вера</h1>
-<h3 align="center">Начинающий разработчик Swift</h3>
+<h3 align="center">Разработчик Swift</h3>
 
 
 <h3 align="left">Connect with me:</h3>
